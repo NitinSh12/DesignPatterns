@@ -1,0 +1,171 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nitin\\source\\repos\\Design Patterns\\Design Patterns\\Design Patterns.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nitin\\source\\repos\\Design Patterns\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nitin\\source\\repos\\Design Patterns\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj",
+        "projectName": "AbstractFactoryPattern",
+        "projectPath": "C:\\Users\\nitin\\source\\repos\\Design Patterns\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj",
+        "packagesPath": "C:\\Users\\nitin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nitin\\source\\repos\\Design Patterns\\AbstractFactoryPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nitin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nitin\\source\\repos\\Design Patterns\\Design Patterns\\Design Patterns.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nitin\\source\\repos\\Design Patterns\\Design Patterns\\Design Patterns.csproj",
+        "projectName": "Design Patterns",
+        "projectPath": "C:\\Users\\nitin\\source\\repos\\Design Patterns\\Design Patterns\\Design Patterns.csproj",
+        "packagesPath": "C:\\Users\\nitin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nitin\\source\\repos\\Design Patterns\\Design Patterns\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nitin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\nitin\\source\\repos\\Design Patterns\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj": {
+                "projectPath": "C:\\Users\\nitin\\source\\repos\\Design Patterns\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj"
+              },
+              "C:\\Users\\nitin\\source\\repos\\Design Patterns\\Factory_Design_Pattern\\Factory_Design_Pattern.csproj": {
+                "projectPath": "C:\\Users\\nitin\\source\\repos\\Design Patterns\\Factory_Design_Pattern\\Factory_Design_Pattern.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nitin\\source\\repos\\Design Patterns\\Factory_Design_Pattern\\Factory_Design_Pattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nitin\\source\\repos\\Design Patterns\\Factory_Design_Pattern\\Factory_Design_Pattern.csproj",
+        "projectName": "Factory_Design_Pattern",
+        "projectPath": "C:\\Users\\nitin\\source\\repos\\Design Patterns\\Factory_Design_Pattern\\Factory_Design_Pattern.csproj",
+        "packagesPath": "C:\\Users\\nitin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nitin\\source\\repos\\Design Patterns\\Factory_Design_Pattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nitin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
